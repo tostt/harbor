@@ -416,9 +416,9 @@
         "NEXT": "Suivant",
         "FINISH": "Terminer",
         "BASIC_INFO": "Information de base",
-        "SELECT_PERMISSIONS": "Selectionner les permissions",
-        "SELECT_SYSTEM_PERMISSIONS": "Selectioner les permissions système",
-        "SELECT_PROJECT_PERMISSIONS": "Select les permission projet",
+        "SELECT_PERMISSIONS": "Sélectionner les permissions",
+        "SELECT_SYSTEM_PERMISSIONS": "Sélectionner les permissions système",
+        "SELECT_PROJECT_PERMISSIONS": "Sélectionner les permission projet",
         "SYSTEM_PERMISSIONS": "Permissions système"
     },
     "WEBHOOK": {
