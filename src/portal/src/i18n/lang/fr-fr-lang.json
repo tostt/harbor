@@ -1142,7 +1142,7 @@
         "ALL": "Tous",
         "PLACEHOLDER": "Nous n'avons trouvé aucun artefact !",
         "SCAN_UNSUPPORTED": "Non supporté",
-        "SBOM_UNSUPPORTED": "Unsupported",
+        "SBOM_UNSUPPORTED": "Non supporté",
         "SUMMARY": "Résumé",
         "DEPENDENCIES": "Dépendances",
         "VALUES": "Valeurs",
