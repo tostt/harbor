@@ -1060,7 +1060,7 @@
         "DOWNLOAD": "Télécharger le SBOM",
         "Details": "Détails du SBOM",
         "STOP": "Scan de SBOM arrêté",
-        "TRIGGER_STOP_SUCCESS": "Déclenchement réussi de l'interruption de l'exécution"
+        "TRIGGER_STOP_SUCCESS": "Déclenchement réussi de l'interruption de la création du SBOM"
     },
     "VULNERABILITY": {
         "STATE": {
