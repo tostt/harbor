@@ -1029,38 +1029,38 @@
     },
     "SBOM": {
         "CHART": {
-            "SCANNING_TIME": "Scan completed time:",
-            "SCANNING_PERCENT": "Scan progress:",
-            "SCANNING_PERCENT_EXPLAIN": "The scan completion progress is calculated as # of successfully scanned images / total number of images referenced within the image index.",
-            "TOOLTIPS_TITLE": "{{totalSbom}} of {{totalPackages}} {{package}} have known {{sbom}}.",
-            "TOOLTIPS_TITLE_SINGULAR": "{{totalSbom}} of {{totalPackages}} {{package}} has known {{sbom}}.",
-            "TOOLTIPS_TITLE_ZERO": "No recognizable SBOM detected"
+            "SCANNING_TIME": "Durée du scan : ",
+            "SCANNING_PERCENT": "Scan en cours : ",
+            "SCANNING_PERCENT_EXPLAIN": "La progression du scan est calculée comme suit : nombre d'images scannées avec succès / nombre total d'images dans l'index.",
+            "TOOLTIPS_TITLE": "{{totalSbom}} sur {{totalPackages}} {{package}} ont {{sbom}} connu.",
+            "TOOLTIPS_TITLE_SINGULAR": "{{totalSbom}} sur {{totalPackages}} {{package}} ont {{sbom}} connu.",
+            "TOOLTIPS_TITLE_ZERO": "Aucun SBOM reconnaissable détecté"
         },
         "GRID": {
-            "PLACEHOLDER": "No scan results found.",
+            "PLACEHOLDER": "Aucun résultat de scan trouvé.",
             "COLUMN_PACKAGE": "Package",
             "COLUMN_PACKAGES": "Packages",
-            "COLUMN_VERSION": "Current version",
-            "COLUMN_LICENSE": "License",
+            "COLUMN_VERSION": "Version actuelle",
+            "COLUMN_LICENSE": "Licence",
             "COLUMN_DESCRIPTION": "Description",
-            "FOOT_ITEMS": "Items",
-            "FOOT_OF": "of"
+            "FOOT_ITEMS": "Entrées",
+            "FOOT_OF": "sur"
         },
         "STATE": {
-            "OTHER_STATUS": "Not Generated",
-            "QUEUED": "Queued",
-            "ERROR": "View Log",
-            "SCANNING": "Generating",
-            "STOPPED": "SBOM scan stopped"
+            "OTHER_STATUS": "Non créé",
+            "QUEUED": "Mis en attente",
+            "ERROR": "Voir log",
+            "SCANNING": "Création en cours",
+            "STOPPED": "Scan SBOM interrompu"
         },
-        "NO_SBOM": "No SBOM",
+        "NO_SBOM": "Aucun SBOM",
         "PACKAGES": "SBOM",
-        "REPORTED_BY": "Reported by {{scanner}}",
-        "GENERATE": "Create SBOM",
-        "DOWNLOAD": "Download SBOM",
-        "Details": "SBOM details",
-        "STOP": "Stop SBOM",
-        "TRIGGER_STOP_SUCCESS": "Trigger stopping SBOM generation successfully"
+        "REPORTED_BY": "Rapporté par {{scanner}}",
+        "GENERATE": "Créer le SBOM",
+        "DOWNLOAD": "Télécharger le SBOM",
+        "Details": "Détails du SBOM",
+        "STOP": "Scan de SBOM arrêté",
+        "TRIGGER_STOP_SUCCESS": "Déclenchement réussi de l'interruption de l'exécution"
     },
     "VULNERABILITY": {
         "STATE": {
